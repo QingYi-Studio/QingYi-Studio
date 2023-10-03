@@ -16,5 +16,6 @@ Welcome to QingYi Studio's profile page!
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingYi-Studio&layout=compact"/>
 </div>
 
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingYi-Studio)](https://github.com/QingYi-Studio/QingYi-Studio/)
