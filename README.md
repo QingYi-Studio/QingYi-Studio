@@ -8,7 +8,7 @@ Welcome to QingYi Studio's profile page!
   <img alt="github contribution grid snake animation" src="https://github.com/QingYi-Studio/QingYi-Studio/raw/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=QingYi-Studio&theme=buefy&border_radius=10&locale=zh_Hans)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=QingYi-Studio&theme=buefy&border_radius=10&locale=zh_Hans)](https://git.io/streak-stats) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QingYi-Studio) -->
 
