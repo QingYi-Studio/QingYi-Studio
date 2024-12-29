@@ -18,4 +18,4 @@ Welcome to QingYi Studio's profile page!
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingYi-Studio)](https://github.com/QingYi-Studio/QingYi-Studio/)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingYi-Studio)](https://github.com/QingYi-Studio/QingYi-Studio/) -->
